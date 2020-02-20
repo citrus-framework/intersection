@@ -21,6 +21,5 @@
             "Citrus\\": "src/",
             "Test\\": "tests/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
