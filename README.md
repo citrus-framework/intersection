@@ -1,7 +1,12 @@
-# CitrusIntersection
+# Citrus Intersection
 php switch library
 
-# USAGE
+## Install
+```
+composer require citrus-framework/intersection
+```
+
+## USAGE
 
 ```php
 $value = 'admin';
